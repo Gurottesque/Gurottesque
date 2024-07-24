@@ -16,15 +16,19 @@
   <h3 style="display: inline-block; margin-right: 10px;">Currently working in Web Development, making the web great again! 🌎</h3>
   <img style="display: inline-block; width: 500px; height: 200px;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
 </div>
-<div align="center">
-    <h3>Skills in frontend</h3>
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,redux,figma" />
-    <h3>Skills in backend</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,nodejs,express,nestjs,postman" />
-    <h3>Im also proficient with</h3>
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,py,bots,docker,php,git,godot" />
-    <h3>I want to learn</h3>
-    <img src="https://skillicons.dev/icons?i=angular,rust,dotnet,vite" />
+<div align="center" style="max-width: 800px; margin: 50px auto; padding: 20px; background: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+    <h2 style="font-size: 2em; margin: 20px 0; color: #16a085;">🌐 Frontend Skills</h2>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,redux,figma" alt="Frontend Skills" style="max-width: 100%; height: auto;"/>
+    <br/><br/>
+    <h2 style="font-size: 2em; margin: 20px 0; color: #16a085;">🔧 Backend Skills</h2>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,nodejs,express,nestjs,postman" alt="Backend Skills" style="max-width: 100%; height: auto;"/>
+    <br/><br/>
+    <h2 style="font-size: 2em; margin: 20px 0; color: #16a085;">🚀 Additional Proficiencies</h2>
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,py,bots,docker,php,git,godot" alt="Additional Skills" style="max-width: 100%; height: auto;"/>
+    <br/><br/>
+    <h2 style="font-size: 2em; margin: 20px 0; color: #16a085;">🎯 Learning Goals</h2>
+    <img src="https://skillicons.dev/icons?i=angular,rust,dotnet,vite" alt="Learning Goals" style="max-width: 100%; height: auto;"/>
+    <br/><br/>
 </div>
 
 
