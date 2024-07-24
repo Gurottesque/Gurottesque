@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="width:200px; height:200px">
 <img src="https://media1.tenor.com/m/4jL56HeueQkAAAAC/virus-please-wait.gif" alt="Virus" align="center">
 </div>
 <h1 align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </h1>
