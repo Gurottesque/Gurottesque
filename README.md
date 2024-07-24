@@ -32,8 +32,8 @@
 </div>
 
 
-<p align="left"> <a href="https://github.com/Gurottesque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurottesque" alt="gurottesque" /></a> </p>
+<div align="center"> <a href="https://github.com/Gurottesque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurottesque" alt="gurottesque" /></a> </div>
 
 <br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurottesque&show_icons=true&locale=en" alt="gurottesque" /></p>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurottesque&show_icons=true&locale=en" alt="gurottesque" /></div>
