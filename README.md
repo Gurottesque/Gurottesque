@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media1.tenor.com/m/4jL56HeueQkAAAAC/virus-please-wait.gif" alt="Virus" align="center">
 </div>
-<h1 align="center">Hello there! I am Gurottesque</h1>
+<h1 align="center">Hello there! I am Gurottesque, Coder and Pentester 👨🏻‍💻 </h1>
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
