@@ -1,4 +1,7 @@
 <h1 align="center">Hello there! I am Gurottesque</h1>
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 <h3 align="center">Compsci enthusiast aiming to become a Security Analyst, I love WebDev</h3>
 
 <p align="left"> <a href="https://github.com/Gurottesque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurottesque" alt="gurottesque" /></a> </p>
