@@ -14,18 +14,18 @@
 
 <div style="display: flex;" align="center">
   <h3 style="display: inline-block; margin-right: 10px;">Currently working in Web Development, making the web great again! 🌎</h3>
-  <img style="display: inline-block; width: 500px; height: 250px;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
+  <img style="display: inline-block; width: 500px; height: 200px;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
     <h3>Skills in frontend</h3>
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,redux,figma" />
     <h3>Skills in backend</h3>
-    <img src="https://skillicons.dev/icons?i=mysql," />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,nodejs,express,nestjs,postman" />
     <h3>Im also proficient in</h3>
-    <img src="https://skillicons.dev/icons?i=mysql," />
-    <h3>Currently learning</h3>
-    <img src="https://skillicons.dev/icons?i=mysql," />
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,py,bots,docker,php,git,godot" />
+    <h3>I want to learn</h3>
+    <img src="https://skillicons.dev/icons?i=angular,rust,dotnet,vite" />
   </a>
 </div>
 
