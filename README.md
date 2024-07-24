@@ -17,7 +17,6 @@
   <img style="display: inline-block; width: 500px; height: 200px;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
 </div>
 <div align="center">
-  <a href="https://skillicons.dev">
     <h3>Skills in frontend</h3>
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,redux,figma" />
     <h3>Skills in backend</h3>
@@ -26,7 +25,6 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,py,bots,docker,php,git,godot" />
     <h3>I want to learn</h3>
     <img src="https://skillicons.dev/icons?i=angular,rust,dotnet,vite" />
-  </a>
 </div>
 
 
