@@ -11,7 +11,7 @@
 </div>
 <div style="display: flex;">
   <h3 style="display: inline-block; margin-right: 10px;">Computer Science enthusiast, I love computers 💻🔥</h3>
-  <img style="display: inline-block;" src="https://media1.tenor.com/m/XEnB7ZmA43UAAAAC/agent-stalker.gif">
+  <img style="display: inline-block; width: 50px; height: 50px;" src="https://media1.tenor.com/m/XEnB7ZmA43UAAAAC/agent-stalker.gif">
 </div>
 
 <div style="display: flex;">
