@@ -13,9 +13,10 @@
 <hr>
 
 <div style="display: flex;" align="center">
-  <h3 style="display: inline-block; margin-right: 10px;">Currently working in Web Development, making the web great again!</h3>
-  <img style="display: inline-block; width: 400px; height: 200px;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
+  <h3 style="display: inline-block; margin-right: 10px;">Currently working in Web Development, making the web great again! 🌎</h3>
+  <img style="display: inline-block; width: 500px; height: 250px;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
 </div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <p align="left"> <a href="https://github.com/Gurottesque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurottesque" alt="gurottesque" /></a> </p>
