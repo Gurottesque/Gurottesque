@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
-<h3>Compsci enthusiast, i love computers </h3> <img src="https://media1.tenor.com/m/XEnB7ZmA43UAAAAC/agent-stalker.gif">
+<h3>Computer Sciencie enthusiast, i love computers </h3> <img style="display:inline" src="https://media1.tenor.com/m/XEnB7ZmA43UAAAAC/agent-stalker.gif">
 
 <p align="left"> <a href="https://github.com/Gurottesque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurottesque" alt="gurottesque" /></a> </p>
 
