@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
+
 <h1 align="center">Hello there! I am Gurottesque</h1>
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
@@ -6,9 +10,15 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 <div style="display: flex; align-items: center;">
-  <h3 style="display: inline-block; margin-right: 10px;">Computer Science enthusiast, I love computers</h3>
+  <h3 style="display: inline-block; margin-right: 10px;">Computer Science enthusiast, I love computers 💻🔥</h3>
   <img style="display: inline-block;" src="https://media1.tenor.com/m/XEnB7ZmA43UAAAAC/agent-stalker.gif">
 </div>
+
+<div style="display: flex; align-items: center;">
+  <h3 style="display: inline-block; margin-right: 10px;">Currently working in Web Development, making the web great again!</h3>
+  <img style="display: inline-block;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
+</div>
+
 
 <p align="left"> <a href="https://github.com/Gurottesque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurottesque" alt="gurottesque" /></a> </p>
 
