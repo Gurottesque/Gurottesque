@@ -1,5 +1,5 @@
 <div align="center" >
-<img style="width:450px; height:400px" src="https://media1.tenor.com/m/4jL56HeueQkAAAAC/virus-please-wait.gif" alt="Virus" align="center">
+<img style="width:350px; height:300px" src="https://media1.tenor.com/m/4jL56HeueQkAAAAC/virus-please-wait.gif" alt="Virus" align="center">
 </div>
 <h1 align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </h1>
 <div align="center">
