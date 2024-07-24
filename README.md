@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
-<div style="display: inline-block;">
+<div style="display: flex; align-items: center;">
   <h3 style="display: inline-block; margin-right: 10px;">Computer Science enthusiast, I love computers</h3>
   <img style="display: inline-block;" src="https://media1.tenor.com/m/XEnB7ZmA43UAAAAC/agent-stalker.gif">
 </div>
