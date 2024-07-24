@@ -12,9 +12,9 @@
 </div>
 <hr>
 
-<div style="display: flex;">
+<div style="display: flex; align="center"">
   <h3 style="display: inline-block; margin-right: 10px;">Currently working in Web Development, making the web great again!</h3>
-  <img style="display: inline-block;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
+  <img style="display: inline-block; width: 400px; height: 200px;" src="https://i.pinimg.com/originals/5b/10/8f/5b108fae049634eb1f2e78789b9b6ad2.gif">
 </div>
 
 
