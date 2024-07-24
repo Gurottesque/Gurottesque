@@ -18,7 +18,14 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <h3>Skills in frontend</h3>
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,figma" />
+    <h3>Skills in backend</h3>
+    <img src="https://skillicons.dev/icons?i=mysql," />
+    <h3>Im also proficient in</h3>
+    <img src="https://skillicons.dev/icons?i=mysql," />
+    <h3>Currently learning</h3>
+    <img src="https://skillicons.dev/icons?i=mysql," />
   </a>
 </p>
 
