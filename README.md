@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I am Gurottesque</h1>
 <h3 align="center">Compsci enthusiast aiming to become a Security Analyst, I love WebDev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurottesque" alt="gurottesque" /></a> </p>
+<p align="left"> <a href="https://github.com/Gurottesque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurottesque" alt="gurottesque" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
