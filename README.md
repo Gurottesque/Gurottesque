@@ -7,7 +7,7 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 <div style="display: inline-block;" align="center">
-  <h3 style="display: inline-block; margin-right: 10px;">I am a computer Science enthusiast, I love computers and tech stuff 💻🔥</h3>
+  <h3 style="display: inline-block; margin-right: 10px;">I am a Computer Science enthusiast, I love computers and tech stuff 💻🔥, aiming to become a Security Analyst</h3>
   <img style="display: inline-block;"  src="https://media1.tenor.com/m/XEnB7ZmA43UAAAAC/agent-stalker.gif">
 </div>
 <hr>
@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,redux,figma" />
     <h3>Skills in backend</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,nodejs,express,nestjs,postman" />
-    <h3>Im also proficient in</h3>
+    <h3>Im also proficient with</h3>
     <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,py,bots,docker,php,git,godot" />
     <h3>I want to learn</h3>
     <img src="https://skillicons.dev/icons?i=angular,rust,dotnet,vite" />
