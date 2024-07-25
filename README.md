@@ -5,9 +5,6 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 <h2 align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </h2>
-<div align="center" >
-<img style="width:350px; height:300px" src="https://media1.tenor.com/m/4jL56HeueQkAAAAC/virus-please-wait.gif" alt="Virus" align="center">
-</div>
 
 <div style="display: inline-block;" align="center">  
   <h3 style="display: inline-block; margin-right: 10px;">I am a Computer Science enthusiast, I love computers and tech stuff 💻🔥, aiming to become a Security Analyst and delve into the deep world of systems</h3>
