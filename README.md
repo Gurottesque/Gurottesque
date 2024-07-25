@@ -7,7 +7,7 @@
 <h2 align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </h2>
 
 <div style="display: inline-block;" align="center">  
-  <h3 style="display: inline-block; margin-right: 10px;">I am a Computer Science enthusiast, I love computers and tech stuff 💻🔥, aiming to become a Security Analyst and delve into the deep world of systems</h3>
+  <h3 style="display: inline-block; margin-right: 10px;">I'm a Computer Science enthusiast, I love computers and tech stuff 💻🔥, aiming to become a Security Analyst and delve into the deep world of systems</h3>
   <img style="display: inline-block;"  src="https://media1.tenor.com/m/XEnB7ZmA43UAAAAC/agent-stalker.gif">
 </div>
 <hr>
@@ -26,7 +26,7 @@
     <h2 style="font-size: 2em; margin: 20px 0; color: #16a085;">🧠 I'm also knowledgeable at</h2>
     <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,py,bots,docker,php,git,godot" alt="Additional Skills" style="max-width: 100%; height: auto;"/>
     <br/><br/>
-    <h2 style="font-size: 2em; margin: 20px 0; color: #16a085;">🎯 I am learning</h2>
+    <h2 style="font-size: 2em; margin: 20px 0; color: #16a085;">🎯 I'm learning</h2>
     <img src="https://skillicons.dev/icons?i=angular,rust,dotnet,vue" alt="Learning Goals" style="max-width: 100%; height: auto;"/>
     <br/><br/>
 </div>
