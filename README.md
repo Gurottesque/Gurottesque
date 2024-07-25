@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline-block;" align="center">  
-  <h3 style="display: inline-block; margin-right: 10px;">I am a Computer Science enthusiast, I love computers and tech stuff 💻🔥, aiming to become a Security Analyst and delve in the deep world of systems</h3>
+  <h3 style="display: inline-block; margin-right: 10px;">I am a Computer Science enthusiast, I love computers and tech stuff 💻🔥, aiming to become a Security Analyst and delve into the deep world of systems</h3>
   <img style="display: inline-block;"  src="https://media1.tenor.com/m/XEnB7ZmA43UAAAAC/agent-stalker.gif">
 </div>
 <hr>
