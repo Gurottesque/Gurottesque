@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,py,bots,docker,php,git,godot" alt="Additional Skills" style="max-width: 100%; height: auto;"/>
     <br/><br/>
     <h2 style="font-size: 2em; margin: 20px 0; color: #16a085;">🎯 I want to learn</h2>
-    <img src="https://skillicons.dev/icons?i=angular,rust,dotnet,vite" alt="Learning Goals" style="max-width: 100%; height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=angular,rust,dotnet,vue" alt="Learning Goals" style="max-width: 100%; height: auto;"/>
     <br/><br/>
 </div>
 
