@@ -13,7 +13,7 @@
   color-scheme: dark;
   display: block;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-  font-size: 28px;
+  font-size: 40px;
   font-weight: 600;
   height: 79.3906px;
   line-height: 35px;
@@ -28,7 +28,6 @@
   overflow-wrap: break-word;
   padding-bottom: 8.4px;
   text-align: center;
-  text-size: 40px;
   text-size-adjust: 100%;
   unicode-bidi: bidi-override;" align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </p>
 <div align="center" >
