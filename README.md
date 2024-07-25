@@ -29,7 +29,7 @@
   padding-bottom: 8.4px;
   text-align: center;
   text-size-adjust: 100%;
-  unicode-bidi: bidi-override;"> align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </p>
+  unicode-bidi: bidi-override;" align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </p>
 <div align="center" >
 <img style="width:350px; height:300px" src="https://media1.tenor.com/m/4jL56HeueQkAAAAC/virus-please-wait.gif" alt="Virus" align="center">
 </div>
