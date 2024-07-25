@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
-<h1 align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </h1>
+<p align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </p>
 <div align="center" >
 <img style="width:350px; height:300px" src="https://media1.tenor.com/m/4jL56HeueQkAAAAC/virus-please-wait.gif" alt="Virus" align="center">
 </div>
