@@ -28,6 +28,7 @@
   overflow-wrap: break-word;
   padding-bottom: 8.4px;
   text-align: center;
+  text-size: 40px;
   text-size-adjust: 100%;
   unicode-bidi: bidi-override;" align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </p>
 <div align="center" >
