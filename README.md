@@ -4,32 +4,7 @@
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
-<p style="
-  border-bottom-color: rgba(48, 54, 61, 0.7);
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  box-sizing: border-box;
-  color: rgb(230, 237, 243);
-  color-scheme: dark;
-  display: block;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-  font-size: 40px;
-  font-weight: 600;
-  height: 79.3906px;
-  line-height: 35px;
-  margin-block-end: 16px;
-  margin-block-start: 24px;
-  margin-bottom: 16px;
-  margin-inline-end: 0px;
-  margin-inline-start: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 24px;
-  overflow-wrap: break-word;
-  padding-bottom: 8.4px;
-  text-align: center;
-  text-size-adjust: 100%;
-  unicode-bidi: bidi-override;" align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </p>
+<p style="font-size:50px" align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </p>
 <div align="center" >
 <img style="width:350px; height:300px" src="https://media1.tenor.com/m/4jL56HeueQkAAAAC/virus-please-wait.gif" alt="Virus" align="center">
 </div>
