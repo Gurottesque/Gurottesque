@@ -24,10 +24,10 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,nodejs,express,nestjs,postman" alt="Backend Skills" style="max-width: 100%; height: auto;"/>
     <br/><br/>
     <h2 style="font-size: 2em; margin: 20px 0; color: #16a085;">🧠 I'm also knowledgeable at</h2>
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,py,bots,docker,php,git,godot" alt="Additional Skills" style="max-width: 100%; height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,py,bots,docker,php,git,godot,rust" alt="Additional Skills" style="max-width: 100%; height: auto;"/>
     <br/><br/>
     <h2 style="font-size: 2em; margin: 20px 0; color: #16a085;">🎯 I'm learning</h2>
-    <img src="https://skillicons.dev/icons?i=angular,rust,dotnet,vue" alt="Learning Goals" style="max-width: 100%; height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=angular,java,dotnet,vue" alt="Learning Goals" style="max-width: 100%; height: auto;"/>
     <br/><br/>
 </div>
 
