@@ -4,10 +4,10 @@
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
-<h2 align="center">Hello there! I am Gurottesque, Coder and (almost) Pentester 👨🏻‍💻 </h2>
+<h2 align="center">Hello there! I am Gurottesque, Coder and Pentester 👨🏻‍💻 </h2>
 
 <div style="display: inline-block;" align="center">  
-  <h3 style="display: inline-block; margin-right: 10px;">I'm a Computer Science enthusiast, I love computers and tech stuff 💻🔥, aiming to become a Security Analyst and delve into the deep world of systems</h3>
+  <h3 style="display: inline-block; margin-right: 10px;">I'm a Computer Science enthusiast, love computers and tech stuff 💻🔥, aiming to become a Security Analyst and delve into the deep world of systems</h3>
   <img style="display: inline-block;"  src="https://media1.tenor.com/m/XEnB7ZmA43UAAAAC/agent-stalker.gif">
 </div>
 <hr>
